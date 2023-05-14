@@ -1,2 +1,2 @@
-# micron_blog
+# μm blog
 Small static site generator
